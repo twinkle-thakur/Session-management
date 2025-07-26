@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+<%@ page errorPage="error.jsp" %>    
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,6 +10,7 @@
 <link href="mystyle.css" rel="stylesheet">
 </head>
 <body>
+
 <h1>JBM Book Store</h1>
 <br/>
 <h2>Search book</h2>
